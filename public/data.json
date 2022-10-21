@@ -1,0 +1,74 @@
+{
+    "projects": [
+        {
+            "id": "1",
+            "title": "First Project",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
+            "link": "https://modest-ramanujan-f625b4.netlify.app/",
+            "photo": "/images/slider/6233919229ea6779ed90baf2_VanguardDesignCo-ShilohCreative.jpg"
+        },
+        {
+            "id": "2",
+            "title": "Second Project",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
+            "link": "https://modest-ramanujan-f625b4.netlify.app/",
+            "photo": "/images/slider/62bdee66d787c4a6f4d9ced7_4WhistlesWinery-ShilohCreative-p-1080.jpeg"
+        },
+        {
+            "id": "3",
+            "title": "Third Project",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
+            "link": "https://modest-ramanujan-f625b4.netlify.app/",
+            "photo": "/images/slider/6233990417440f78c3061103_LandingPage-ShilohCreative (1).jpg"
+        },
+        {
+            "id": "4",
+            "title": "Fourth Project",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
+            "link": "https://modest-ramanujan-f625b4.netlify.app/",
+            "photo": "/images/slider/629a744633cf80efdf426182_NewSongChurch-ShilohCreative-p-1080.jpeg"
+        },
+        {
+            "id": "5",
+            "title": "Fifth Project",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
+            "link": "https://modest-ramanujan-f625b4.netlify.app/",
+            "photo": "/images/slider/623391a13c260eca5a41c7cc_BelloBeauty-ShilohCreative.jpg"
+        },
+        {
+            "id": "6",
+            "title": "Sixth Project",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
+            "link": "https://modest-ramanujan-f625b4.netlify.app/",
+            "photo": "/images/slider/623391b6028cc04e169667de_CodeSee-ShilohCreative.jpg"
+        },
+        {
+            "id": "7",
+            "title": "Seventh Project",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
+            "link": "https://modest-ramanujan-f625b4.netlify.app/",
+            "photo": "/images/slider/623391de29ea67625d90bc28_CodeSeeLearn-ShilohCreative.jpg"
+        },
+        {
+            "id": "8",
+            "title": "Eighth Project",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
+            "link": "https://modest-ramanujan-f625b4.netlify.app/",
+            "photo": "/images/slider/6233964d458d840baa74c42f_LandingPage-ShilohCreative.jpg"
+        },
+        {
+            "id": "9",
+            "title": "Ninth Project",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
+            "link": "https://modest-ramanujan-f625b4.netlify.app/",
+            "photo": "/images/slider/6233919229ea6779ed90baf2_VanguardDesignCo-ShilohCreative.jpg"
+        },
+        {
+            "id": "10",
+            "title": "Tenth Project",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
+            "link": "https://modest-ramanujan-f625b4.netlify.app/",
+            "photo": "/images/slider/6233990417440f78c3061103_LandingPage-ShilohCreative (1).jpg"
+        }
+    ]
+}
