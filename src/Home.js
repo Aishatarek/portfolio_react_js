@@ -37,7 +37,7 @@ function Home() {
           <Row>
             <Col md={7} sm={12} className="bannartext wow slideInLeft" data-wow-duration="2s" data-wow-delay="0.1s">
               <p>WEB DESIGN <span>//</span> WEBFLOW DEVELOPMENT <span>//</span> SEO</p>
-              <h2>Turn your website into a customer-acquisition engine.</h2>
+              <h1>Aisha Tarek Portfolio .</h1>
               <h5>We build marketing websites that help you sell on autopilot.</h5>
               <HashLink to="/#contact"><button>Let's talk</button></HashLink>
             </Col>
