@@ -99,7 +99,7 @@ body {
   color: white;
 }
 
-.bannar .bannartext h2 {
+.bannar .bannartext h2 ,.bannar .bannartext h1{
   color: white;
   margin: 15px 0;
   font-size: 50px;
